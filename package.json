@@ -1,7 +1,7 @@
 {
   "name": "component-cube",
   "version": "0.3.0",
-  "description": "bootstrap components using redux, reselect and styled components libraries",
+  "description": "bootstrap react components community defined templates",
   "main": "src/index.js",
   "bin": {
     "@lufedi/component-cube": "bin/component-cube",
@@ -15,7 +15,8 @@
     "component-cube",
     "reactjs",
     "template",
-    "generator"
+    "generator",
+    "bootstrap"
   ],
   "repository": {
     "type": "git",
