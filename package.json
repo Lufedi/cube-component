@@ -1,5 +1,5 @@
 {
-  "name": "@lufedi/component-cube",
+  "name": "component-cube",
   "version": "0.2.0",
   "description": "bootstrap components using redux, reselect and styled components libraries",
   "main": "src/index.js",
