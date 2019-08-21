@@ -1,18 +1,17 @@
 {
-  "name": "component-cube",
+  "name": "cube-component",
   "version": "0.3.0",
-  "description": "bootstrap react components community defined templates",
+  "description": "bootstrap react components with community defined templates",
   "main": "src/index.js",
   "bin": {
-    "@lufedi/component-cube": "bin/component-cube",
-    "component-cube": "bin/component-cube"
+    "cube-component": "bin/cube-component"
   },
   "publishConfig": {
     "access": "public"
   },
   "keywords": [
     "cli",
-    "component-cube",
+    "cube-component",
     "reactjs",
     "template",
     "generator",
@@ -20,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lufedi/component-cube"
+    "url": "https://github.com/Lufedi/cube-component"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
