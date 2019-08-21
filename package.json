@@ -12,7 +12,10 @@
   },
   "keywords": [
     "cli",
-    "component-cube"
+    "component-cube",
+    "reactjs",
+    "template",
+    "generator"
   ],
   "repository": {
     "type": "git",
