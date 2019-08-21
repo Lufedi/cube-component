@@ -1,6 +1,6 @@
 {
   "name": "component-cube",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "bootstrap components using redux, reselect and styled components libraries",
   "main": "src/index.js",
   "bin": {
