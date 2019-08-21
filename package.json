@@ -1,0 +1,29 @@
+{
+  "name": "@lufedi/component-cube",
+  "version": "1.0.0",
+  "description": "bootstrap components using redux, reselect and styled components libraries",
+  "main": "src/index.js",
+  "bin": {
+    "@lufedi/component-cube": "bin/component-cube",
+    "component-cube": "bin/component-cube"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "cli",
+    "component-cube"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Felipe Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^4.1.1",
+    "consola": "^2.10.1",
+    "esm": "^3.2.25",
+    "inquirer": "^6.5.0",
+    "minimist": "^1.2.0"
+  }
+}
