@@ -1,0 +1,7 @@
+For running the project locally execute the next command inside the folder of the project to link the packae to your local npm manager
+
+$ npm link
+
+then run
+
+$ cube-component
