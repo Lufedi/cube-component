@@ -51,3 +51,5 @@ Create a component with name 'MyComponent' using the redux,reselect, styled comp
 
 
 #### Contribute
+
+read  `run-locally.txt` file
